@@ -1,3 +1,4 @@
 python-chess
 torch
-transformers
+transformers>=4.30.0
+accelerate
